@@ -5,7 +5,7 @@ CSE Student @ VIT Vellore | AI Engineer in Progress | Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications;Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Applications;DSA"/>
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ A collection of Data Structures and Algorithms problems solved in C++.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<a href="[https://instagram.com/YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/tarun_ts_17/)">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
