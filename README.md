@@ -12,7 +12,6 @@ CSE Student @ VIT Vellore | AI Engineer in Progress | Full Stack Developer
 <img src="https://komarev.com/ghpvc/?username=tarunts10&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -33,7 +32,6 @@ Currently focused on:
 ---
 
 ## 🚀 Tech Stack
-
 
 <p align="center">
 
@@ -94,7 +92,6 @@ A collection of Data Structures and Algorithms problems solved in C++.
 
 ## 🐍 Contribution Activity
 
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/tarunts10/tarunts10/output/github-contribution-grid-snake.svg">
@@ -113,7 +110,7 @@ A collection of Data Structures and Algorithms problems solved in C++.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://instagram.com/YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/tarun_ts_17/)">
+<a href="https://www.instagram.com/tarun_ts_17/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
